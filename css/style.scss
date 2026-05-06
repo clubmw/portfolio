@@ -487,8 +487,8 @@ a:focus {
 
     .img-box {
       margin-bottom: 20px;
-      width: 550px;
-      height: auto;
+      width: 300px;
+      height: 250;
       min-width: 120px;
       min-height: 120px;
       border-radius: 100%;
@@ -498,8 +498,8 @@ a:focus {
       align-items: center;
 
       img {
-        width: 400px;
-        height: 300;
+        width: 300px;
+        height: 250;
         fill: $primary2;
       }
     }
