@@ -542,8 +542,8 @@ a:focus {
 
 .why_section .box .img-box {
   margin-bottom: 20px;
-  width: 700px;
-  height: 600;
+  width: 120px;
+  height: 120;
   border-radius: 100%;
   border: 5px solid #00204a;
   display: -webkit-box;
@@ -558,8 +558,8 @@ a:focus {
 }
 
 .why_section .box .img-box img {
-  width: 700px;
-  height: 600;
+  width: 120px;
+  height: 120;
   fill: #00204a;
 }
 
